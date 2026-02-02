@@ -1,2 +1,13 @@
-# Python-phone-book-for-beginners
-A simple console-based phone book / contact manager built in Python as a beginner project. Add, view, search, update, and delete contacts.
+# 📱 Simple Phone Book – Python Beginner Project
+
+A console-based contact manager built in Python. Perfect for learning dictionaries, functions, user input, and basic program flow.
+
+## ✨ Features
+- Add a new contact (name + phone)
+- View all contacts (sorted alphabetically)
+- Search for a contact by name
+- Delete a contact
+- Simple menu interface
+  
+# Run it!
+python contact.py
