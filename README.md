@@ -28,3 +28,7 @@ python contact.py
 - Sorting output alphabetically for better UX
 
 **Note:** Contacts are stored in memory only (they reset when you close the program). Future version will save to a JSON file!
+
+## 📸 Demo
+
+![Phone Book Demo](demo.jpg)
