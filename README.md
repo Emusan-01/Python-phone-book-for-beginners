@@ -18,7 +18,7 @@ cd Python-phone-book-for-beginners
 3. Ensure both files contact_01.py and contact.py are saved in the same directory
 
 # Run it!
-python contact.py
+python contact_01.py
 
 ## 🛠️ What I Learned Building This
 - Using **dictionaries** to store contact data (name → phone)
