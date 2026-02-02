@@ -15,7 +15,7 @@ A console-based contact manager built in Python. Perfect for learning dictionari
 bash
 git clone https://github.com/Emusan-01/Python-phone-book-for-beginners.git
 cd Python-phone-book-for-beginners
-2. Ensure both files contact_01.py and contact.py are saved in the same directory
+3. Ensure both files contact_01.py and contact.py are saved in the same directory
 
 # Run it!
 python contact.py
